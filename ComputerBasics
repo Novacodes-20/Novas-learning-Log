@@ -54,6 +54,7 @@ Firmware:
 BIOS(Both input-output system)-An old bootloader which comes into play when u swicth on the pc, the firmware checks the environment of the 
 hardware is Good and after completing POST(post operating system test) it tells the driver to bootload or in ur terms loads the computers 
 interface or OS.
+Bootloader->Loads the OS from storage to RAM.
 
 
 

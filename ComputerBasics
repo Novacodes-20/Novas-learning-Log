@@ -1,0 +1,65 @@
+Helo Guys- 
+# when thinking about computers what we know is External hardware components like monitor,mouse,cpu and yes you're right 
+but there's actually a lot more than that BTS(behind the scene) of what u have thought of and in this section we will 
+explore some of them in detail.
+  Major things to consider to learn about Computers are:
+ 1.Hardware
+ 2.Software
+ 3.Firmware
+Lets first dive what's hardware and how does this actually works-
+  As you may be familiar with CPU AND external devices like mouse,keyboard monitior,etc all these comes under hardware.
+  Understand this as a Human body-
+  Nervous system-MotherBoard
+  Brain-cpu(Cental processing unit)/Processors 
+  short term memory-RAM(Random access memory)also called Volatile
+  Long term memory-HDD/SSD(Hard disk or solid state drive)called as Non volatle
+will ce what is volatile or non volatile but before first lets understand how each things work.
+
+Motherboard:
+# Motherboard is a printed circuit board where Cpu is placed inside which acts as a brain for every pc and laptops that we
+use nowadys,also processors which is a harware chip which contains multiple cores of CPU so called as Multi-core processors basically contains
+4 CPUs(Quad-core).The core that acutally performs compuatation and instruction execution.
+# When u see in any laptop there will be a stiker near keypad and that is non other than processors company name and if u 
+knew, then Congrats!.
+CPU:
+  Basic funtions of CPUs are- 
+  *ALU(Arthmetic Logic unit) - Performs calculations and logic comparison
+  *CU(Contol unit) - directs the operation like a Manger
+  *Registers - Small, Super-fast memory locations like scartcpad.
+Simple Analogy
+
+Imagine a chef in a kitchen 🍳:
+->The recipe book = Memory (RAM)
+->The chef = CPU
+->The chef reads a recipe (fetches)
+->Understands the steps (decodes)
+->Cooks the dish (executes)
+->Then moves on to the next recipe.
+
+RAM is very well known by u gys,yes its a short term memory location does not store your OS or files permanently.
+HDD/SSD - Its the main storage component which stores your data permanently even when you shutdown,amazingly it stores 2 Terabytes of storages
+which is more sufficient for normal uses like me.
+HDD parts->[https://www.researchgate.net/publication/258540610/figure/fig1/AS:669075625758726@1536531468327/Fig-1-Interior-of-a-typical-HDD.png]
+For further understanding refer this Youtube Video->[https://youtu.be/wtdnatmVdIg]
+SSD->[https://youtu.be/5Mh3o886qpg].
+
+Software:
+# When comes to software its what u see on a virtual screen may be OS(Operating system), apps or files.
+And whats the third category?? yas Firmware and whats so special about that is it connects both hardware and software like a bridge, well 
+will see that in coming section.
+
+Firmware:
+# As I mentioned ealrier it acts as a bypass between hardware and software but HOW? 
+# when u switch on a pc basicaslly u first switch the CPU but before there is simple concept called bootloader ->BIOS/UEFI
+BIOS(Both input-output system)-An old bootloader which comes into play when u swicth on the pc, the firmware checks the environment of the 
+hardware is Good and after completing POST(post operating system test) it tells the driver to bootload or in ur terms loads the computers 
+interface or OS.
+
+
+
+
+
+
+  
+  
+  
